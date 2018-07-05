@@ -16,8 +16,8 @@ galaxy_info:
     - 28
 
   galaxy_tags:
-    - Thoth
-    - AIStacks
-    - Prometheus
+    - thoth
+    - aistacks
+    - prometheus
 
 dependencies: []
