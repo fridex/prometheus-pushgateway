@@ -1,0 +1,3 @@
+---
+# defaults file for prometheus-pushgateway
+PROJECT_NAME: thoth-test-core

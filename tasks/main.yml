@@ -1,0 +1,5 @@
+---
+  - name: "make sure to use project {{ PROJECT_NAME }}"
+    command: "oc project {{ PROJECT_NAME }}"
+    register: project_exists
+    ignore_errors: true
